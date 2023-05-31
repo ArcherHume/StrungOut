@@ -1,0 +1,27 @@
+{
+  "name": "strungout",
+  "version": "1.0.1",
+  "description": "General Node utility library for pluralisation, string formatting, and humanisation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArcherHume/StrungOut.git"
+  },
+  "keywords": [
+    "strings",
+    "formatting",
+    "utility",
+    "humanisation",
+    "plural",
+    "pluralisation"
+  ],
+  "author": "Archer Hume",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArcherHume/StrungOut/issues"
+  },
+  "homepage": "https://github.com/ArcherHume/StrungOut#readme"
+}
