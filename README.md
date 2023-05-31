@@ -67,12 +67,6 @@ Converts a `Date` object to a human-readable string in the format "Day, Month Da
 ### possessive(name)
 Returns the possessive form of a name or noun.
 
-### simplifyFraction(numerator, denominator)
-Simplifies a fraction using the greatest common divisor.
-
-### findClosestFraction(decimal, maxDenominator = 1000)
-Finds the closest fraction for a given decimal, with an optional maximum denominator.
-
 ### convertPercentageFraction(value)
 Converts a percentage to a fraction or a fraction to a percentage, depending on the input. Returns an error message if the input is invalid.
 
